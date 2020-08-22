@@ -1,6 +1,14 @@
 <!doctype html>
 <html>
 <head>
+<style>
+body{
+background-color: lightskyBlue; }
+a{
+color: white; 
+font-family: Forte;
+font-size: 20px;}
+</style>
 <title>Professor Shonku</title>
 </head>
 <body>
@@ -11,6 +19,6 @@
 <li><a href="https://www.youtube.com/watch?v=P7kiu7-A41M&list=PLq71IJk8mCV4Ga5SrVefTodmDZ5qkDIOc&index=14">Bhoot</a></li>
 <li><a href="https://www.youtube.com/watch?v=c1PpiXXk3kI&list=PLq71IJk8mCV4Ga5SrVefTodmDZ5qkDIOc&index=10">Corvus</a></li>
 </ol>
-<p><a href="/index.css"><strong style="color: orange; font-family: cursive; font-size: 30px;">Home</strong></a></p>
+<p><a href="/index.css"><strong style="color: yellow; font-family: cursive; font-size: 30px;">Home</strong></a></p>
 </body>
 </html>

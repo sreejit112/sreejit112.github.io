@@ -1,6 +1,14 @@
 <!doctype html>
 <html>
 <head>
+<style>
+body{
+background-color: lightskyBlue; }
+a{
+color: white; 
+font-family: Forte;
+font-size: 20px;}
+</style>
 <title>The Lighthouse Keepers</title>
 </head>
 <body>
@@ -12,6 +20,6 @@
 <li><a href="https://www.youtube.com/watch?v=nbKkP-nf9uI">Lighthouse Keepers 4</a></li>
 <li><a href="https://www.youtube.com/watch?v=OuDeTgOwt88">Lighthouse Keepers 5</a></li>
 </ol>
-<p><a href="/index.css"><strong style="color: orange; font-family: cursive; font-size: 30px;">Home</strong></a></p>
+<p><a href="/index.css"><strong style="color: yellow; font-family: cursive; font-size: 30px;">Home</strong></a></p>
 </body>
 </html>

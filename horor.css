@@ -1,6 +1,14 @@
 <!doctype html>
 <html>
 <head>
+<style>
+body{
+background-color: lightskyBlue; }
+a{
+color: white; 
+font-family: Forte;
+font-size: 20px;}
+</style>
 <title>Horror</title>
 </head>
 <body>
@@ -14,6 +22,6 @@
 <li><a href="https://www.youtube.com/watch?v=MCjcojWf5P0&list=PLq71IJk8mCV5vmwzOzycUTzCr251mjMK7&index=73&t=0s">Tarini Khuro-Conway Castle-er-Pretaatma</a></li>
 <li><a href="https://www.youtube.com/watch?v=3gRByTftkDM&list=PLq71IJk8mCV5vmwzOzycUTzCr251mjMK7&index=21&t=0s">Fritz</a></li>
 </ol>
-<p><a href="/index.css"><strong style="color: orange; font-family: cursive; font-size: 30px;">Home</strong></p>
+<p><a href="/index.css"><strong style="color: yellow; font-family: cursive; font-size: 30px;">Home</strong></p>
 </body>
 </html>

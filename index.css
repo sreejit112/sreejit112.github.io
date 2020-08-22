@@ -1,17 +1,25 @@
 <!doctype html>
 <html>
 <head>
-<title>Bangla Audio Story</title>
+<style>
+body{
+background-color: black; }
+ul{
+color: white; 
+font-size: 20px;
+font-family: Forte;}
+</style>
+<title>Bangla Audio Story body</title>
 </head>
 <body>
-<h1 style="color: indigo; font-style: Cooper Black;">Welcome to Bangla Audio Story</h1>
-<p style="color: lime; font-style: Comic Sans MS; font-size: 2opx;">Listen to the best audio stories</p>
+<h1 style="color: yellow; font-family: Cooper Black;">Welcome to Bangla Audio Story</h1>
+<p style="color: lime; font-family: Comic Sans MS; font-size: 20px;">Listen to the best audio stories</p>
 <ul>
 <li>Professor Shonku<button><a href="/shonku.css"><em style="color: red; font-weight: bold;">PLAY</em></a></button></li>
 <li>Chander Pahar<button><a href="/chander-pahar.css"><em style="color: red; font-weight: bold;">PLAY</em></a></button></li>
 <li>The Lighthouse Keepers<button><a href="/lighthouse-keepers.css"><em style="color: red; font-weight: bold;">PLAY</em></a></button></li>
 <li>Horror<button><a href="/horor.css"><em style="color: red; font-weight: bold;">PLAY</em></a></button></li>
 </ul>
-<h2 style="color: pink; font-family: Cooper Black;">Thanks for visting!!!!</h2>
+<h2 style="color: red; font-family: Cooper Black;">Thanks for visting!!!!</h2>
 </body>
 </html>
