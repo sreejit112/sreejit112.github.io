@@ -1,27 +1,29 @@
-<!doctype html>
-<html>
-<head>
-<style>
 body{
-background-color: lightskyBlue; }
+background-color: lightskyBlue;
+}
+
+img{ 
+width: 500px;
+height: 500px;
+border-radius: 30px;
+}
+
 a{
-color: white; 
+color: white;
 font-family: Forte;
-font-size: 20px;}
-</style>
-<title>Horror</title>
-</head>
-<body>
-<h1 style="color: red; font-family: Cooper Black;">HORROR</h1>
-<ol>
-<li><a href="https://www.youtube.com/watch?v=VQH5arlPL0I">Toffee</a></li>
-<li><a href="https://www.youtube.com/watch?v=-esvinZXC4U&list=PLX6x6T94GXWdPrbzaxLQFwyq5i0qiAM-m&index=12&t=0s">Purbabhas</a></li>
-<li><a href="https://www.youtube.com/watch?v=oK6xCER-aWE">Taranath Tantrik-Jwarasur</a></li>
-<li><a href="https://www.youtube.com/watch?v=OTF-ixqK5xE&list=PLq71IJk8mCV4vFBqzx4JmLpWFtvpl93Sv&index=36&t=0s">Rudyard Kipling's-The Phantom Ricksaw</a></li>
-<li><a href="https://www.youtube.com/watch?v=cKJYFePziyc&list=PLq71IJk8mCV4vFBqzx4JmLpWFtvpl93Sv&index=14&t=904s">Amra Bhutera</a></li>
-<li><a href="https://www.youtube.com/watch?v=MCjcojWf5P0&list=PLq71IJk8mCV5vmwzOzycUTzCr251mjMK7&index=73&t=0s">Tarini Khuro-Conway Castle-er-Pretaatma</a></li>
-<li><a href="https://www.youtube.com/watch?v=3gRByTftkDM&list=PLq71IJk8mCV5vmwzOzycUTzCr251mjMK7&index=21&t=0s">Fritz</a></li>
-</ol>
-<p><a href="/index.css"><strong style="color: yellow; font-family: cursive; font-size: 30px;">Home</strong></p>
-</body>
-</html>
+font-size: 30px;
+}
+
+h1{
+color: red;
+font-family: Cooper Black;
+border: solid yellow 20px;
+border-radius: 30px;
+text-align: center;
+}
+
+.home{
+color: yellow;
+font-family: cursive;
+font-size: 30px;
+}
