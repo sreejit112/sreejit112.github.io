@@ -1,9 +1,11 @@
 body{ 
-background-color: black;
+background: linear-gradient(darkSlateGray, gray, black);
+margin: 0 0 20px 0;
 }
 
 .welcome{ 
-color: indigo;
+color: hotPink;
+background-color: blueViolet;
 font-family: Cooper Black;
 border: solid 15px pink;
 border-radius: 50px;
@@ -13,7 +15,8 @@ text-align: center;
 .p{ 
 color: lime;
 font-family: Comic Sans MS;
-font-size: 20px;
+font-size: 25px;
+margin: 0 0 30px 50px;
 }
 
 img{ 
@@ -27,6 +30,7 @@ color: white;
 font-style: italic;
 font-weight: bold;
 font-size: 30px; 
+margin: 0 0 40px 0;s
 }
 
 em{
@@ -37,4 +41,10 @@ font-weight: bold;
 h2{
 color: red;
 font-family: Cooper Black;
-text-align: center; }
+text-align: center; 
+}
+
+button{
+margin: 0 0 0 20px;
+}
+

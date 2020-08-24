@@ -1,5 +1,5 @@
 body{
-background-color: lightskyBlue;
+background: linear-gradient(linen, lightskyBlue);
 }
 
 img{ 
@@ -16,10 +16,13 @@ font-size: 30px;
 
 h1{
 color: red;
+background: linear-gradient(270deg, brown, black);
 font-family: Cooper Black;
-border: solid yellow 20px;
+border: solid linen 10px;
 border-radius: 30px;
 text-align: center;
+margin: 20px 80px 20px 80px;
+padding: 20px 0 20px 0;
 }
 
 .home{
