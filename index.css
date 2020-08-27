@@ -1,28 +1,30 @@
 body{ 
-background: linear-gradient(darkSlateGray, gray, black);
+background: linear-gradient(135deg, yellow, orange, red);
 margin: 0 0 20px 0;
+text-align: center;
 }
 
 .welcome{ 
-color: hotPink;
-background-color: blueViolet;
+color: white;
+background: linear-gradient(45deg, black, red);
 font-family: Cooper Black;
 border: solid 15px pink;
 border-radius: 50px;
 text-align: center;
+padding: 0 0 0 10px;
 }
 
 .p{ 
-color: lime;
+color: black;
 font-family: Comic Sans MS;
 font-size: 25px;
 margin: 0 0 30px 50px;
 }
 
 img{ 
-width: 80px;
-height: 80px;
-border-radius: 30px;
+width: 200px;
+height: 200px;
+border-radius: 0 30px 0 30px;
 }
 
 li{
@@ -30,7 +32,7 @@ color: white;
 font-style: italic;
 font-weight: bold;
 font-size: 30px; 
-margin: 0 0 40px 0;s
+margin: 0 0 40px 20px;
 }
 
 em{
@@ -39,12 +41,15 @@ font-weight: bold;
 }
 
 h2{
-color: red;
+color: lightBlue;
 font-family: Cooper Black;
 text-align: center; 
+padding: 0 0 0 30px;
+font-size: 30px;
 }
 
 button{
 margin: 0 0 0 20px;
+font-size: 20px;
 }
 
